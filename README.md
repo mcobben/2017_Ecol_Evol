@@ -1,6 +1,6 @@
 # Consequences of the genetic treshold model for observing partial migration under climate change scenarios
 
-Accepted by Ecology and Evolution
+https://doi.org/10.1002/ece3.3357
 
 ABSTRACT
 
